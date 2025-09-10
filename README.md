@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
   <sup>Special thanks to:</sup>
   <br><br>
   <a href="https://go.warp.dev/localsend" target="_blank">
-    <img alt="Warp sponsorship" width="300" src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-03.png">
+    <img alt="Warp sponsorship" width="300" src="genai_UI.png">
     <br>
     <b>Warp, built for coding with multiple AI Agents.</b>
     <br>
