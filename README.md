@@ -16,13 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # GenAI
 <div align="center">
-  <sup>Special thanks to:</sup>
+  <sup>genAI:</sup>
   <br><br>
   <a href="https://go.warp.dev/localsend" target="_blank">
     <img alt="Warp sponsorship" width="300" src="genai_UI.png">
     <br>
-    <b>Warp, built for coding with multiple AI Agents.</b>
-    <br>
-    <sup>Available for macOS, Linux and Windows</sup>
+    
+    <sup>GENERATE IMAGE AND TEXT</sup>
   </a>
 </div>
