@@ -22,6 +22,6 @@ samples, guidance on mobile development, and a full API reference.
     <img alt="Warp sponsorship" width="300" src="genai_UI.png">
     <br>
     
-    <sup>GENERATE IMAGE AND TEXT</sup>
+   
   </a>
 </div>
