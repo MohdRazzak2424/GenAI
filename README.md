@@ -15,13 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # GenAI
-<div align="center">
-  <sup>genAI:</sup>
-  <br><br>
-  <a href="https://go.warp.dev/localsend" target="_blank">
-    <img alt="Warp sponsorship" width="300" src="genai_UI.png">
-    <br>
-    
-   
-  </a>
-</div>
+<p float="centre">
+  <img src="https://github.com/MohdRazzak2424/GenAI/blob/2324eb9909219af87eba04edd29e27bcf447eea0/Genai1.jpg     " width="100" />
+  <img src=" https://github.com/MohdRazzak2424/GenAI/blob/2324eb9909219af87eba04edd29e27bcf447eea0/Genai2.jpg " width="100" /> 
+  <img src="https://github.com/MohdRazzak2424/GenAI/blob/2324eb9909219af87eba04edd29e27bcf447eea0/Genai3.jpg    " width="100" />
+  <img src="  https://github.com/MohdRazzak2424/GenAI/blob/2324eb9909219af87eba04edd29e27bcf447eea0/Genai4.jpg   " width="100" />
+</p>
